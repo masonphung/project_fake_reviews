@@ -1,4 +1,6 @@
 # **Mini Project: Impact of Fake online reviews on brand attitude & consumer behavior**
+For a quick look: [DataCamp](https://app.datacamp.com/workspace/w/7079ef69-6edd-4955-ba23-a40ae8f5b212_
+
 
 The Case study was based on a [Master thesis](master_thesis.pdf) focused on the Impact of fake online review on brand attitude and consumer behavior. 
 The paper discussed basic concepts of the issue, the influence of fake reviews on brand attitude & consumer behavior as well as the theoretical framework of the research.
