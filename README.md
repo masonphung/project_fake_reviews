@@ -12,6 +12,7 @@ There are still more rooms for improvement in the Analysis.
 In this work, we will only focus on & improve the Data Analysis part by introduce many Data analysis methods along with my own approaches in each details. 
 
 The relationship between different variables will be analyzed with different approaches to find out how they relate, impact each other with a final goal to determine how Fake online reviews affect customers in their brand attitude & consuming behavior.
+![mini_clusters](https://github.com/masonphung/project_fake_reviews/assets/131331827/2b875ceb-9222-4903-8838-617b6881001f)
 
 ## THE PROJECT COVERS
 - Programming language `R`
@@ -20,6 +21,7 @@ The relationship between different variables will be analyzed with different app
 - Data visualization with `ggplot2`
   - Multiple plots with `gridExtra`
   - Custom color palette `nord`
+- My explanations in each steps and comments to the results
 
 
 ## THE REPO CONTAINS 3 FILES
